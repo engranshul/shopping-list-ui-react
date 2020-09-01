@@ -1,5 +1,4 @@
 ### How to run this project
-* npm install
 * npm start
 
 ### Learnings from this project
